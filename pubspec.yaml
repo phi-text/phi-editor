@@ -1,0 +1,9 @@
+name: phi_editor
+version: 1.0.0
+description: Phi text editor core.
+author: phantamanta44
+homepage: https://github.com/phi-text
+dependencies:
+  phi_cmux:
+    git: git://github.com/phi-text/phi-cmux.git
+  args:
